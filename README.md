@@ -2,7 +2,7 @@
 Sample repo walkthru 3 of fast.ai course
 
 
-This is another pragraoh
+This is another pragraph
 
 Here's a list:
 
